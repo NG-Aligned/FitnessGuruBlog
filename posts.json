@@ -1,16 +1,72 @@
 [
   {
     "id": 1,
-    "title": "First Blog Post",
-    "excerpt": "This is the excerpt of the first post.",
-    "author": "Author Name",
+    "title": "5 Effective Workouts for Beginners",
+    "excerpt": "Start your fitness journey with these five beginner-friendly workouts designed to improve strength and endurance.",
+    "author": "Jane Doe",
     "date": "2024-12-07"
   },
   {
     "id": 2,
-    "title": "Second Blog Post",
-    "excerpt": "This is the excerpt of the second post.",
-    "author": "Author Name",
+    "title": "Nutrition Tips for Muscle Growth",
+    "excerpt": "Learn about the best nutrition strategies to fuel muscle growth and recovery after your workouts.",
+    "author": "John Smith",
     "date": "2024-12-08"
+  },
+  {
+    "id": 3,
+    "title": "How to Stay Consistent with Your Fitness Routine",
+    "excerpt": "Consistency is key to long-term fitness success. Discover strategies to stay on track with your fitness goals.",
+    "author": "Emily Johnson",
+    "date": "2024-12-09"
+  },
+  {
+    "id": 4,
+    "title": "The Benefits of High-Intensity Interval Training (HIIT)",
+    "excerpt": "Explore the many benefits of HIIT, a workout style that can help burn fat and build muscle in less time.",
+    "author": "Michael Clark",
+    "date": "2024-12-10"
+  },
+  {
+    "id": 5,
+    "title": "Yoga for Flexibility and Stress Relief",
+    "excerpt": "Unwind with these yoga poses that improve flexibility, reduce stress, and enhance overall well-being.",
+    "author": "Sarah Lee",
+    "date": "2024-12-11"
+  },
+  {
+    "id": 6,
+    "title": "Building Core Strength for Better Posture",
+    "excerpt": "A strong core can improve your posture and overall health. Here are some core-strengthening exercises to get you started.",
+    "author": "David Brown",
+    "date": "2024-12-12"
+  },
+  {
+    "id": 7,
+    "title": "The Importance of Rest Days in Your Workout Routine",
+    "excerpt": "Rest is just as important as exercise. Learn why rest days are crucial for muscle recovery and fitness progress.",
+    "author": "Anna Wilson",
+    "date": "2024-12-13"
+  },
+  {
+    "id": 8,
+    "title": "Top 10 Supplements for a Healthier Lifestyle",
+    "excerpt": "Explore the top 10 supplements that can support your fitness goals and overall health.",
+    "author": "James Taylor",
+    "date": "2024-12-14"
+  },
+  {
+    "id": 9,
+    "title": "How to Set Realistic Fitness Goals",
+    "excerpt": "Setting achievable goals is key to staying motivated. Learn how to set realistic fitness goals that align with your lifestyle.",
+    "author": "Olivia Martinez",
+    "date": "2024-12-15"
+  },
+  {
+    "id": 10,
+    "title": "The Best At-Home Workouts for Busy Schedules",
+    "excerpt": "No time for the gym? Here are some of the best at-home workouts that can fit into even the busiest schedules.",
+    "author": "Robert Davis",
+    "date": "2024-12-16"
   }
 ]
