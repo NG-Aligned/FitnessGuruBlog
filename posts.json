@@ -1,72 +1,331 @@
 [
-  {
-    "id": 1,
-    "title": "5 Effective Workouts for Beginners",
-    "excerpt": "Start your fitness journey with these five beginner-friendly workouts designed to improve strength and endurance.",
-    "author": "Jane Doe",
-    "date": "2024-12-07"
-  },
-  {
-    "id": 2,
-    "title": "Nutrition Tips for Muscle Growth",
-    "excerpt": "Learn about the best nutrition strategies to fuel muscle growth and recovery after your workouts.",
-    "author": "John Smith",
-    "date": "2024-12-08"
-  },
-  {
-    "id": 3,
-    "title": "How to Stay Consistent with Your Fitness Routine",
-    "excerpt": "Consistency is key to long-term fitness success. Discover strategies to stay on track with your fitness goals.",
-    "author": "Emily Johnson",
-    "date": "2024-12-09"
-  },
-  {
-    "id": 4,
-    "title": "The Benefits of High-Intensity Interval Training (HIIT)",
-    "excerpt": "Explore the many benefits of HIIT, a workout style that can help burn fat and build muscle in less time.",
-    "author": "Michael Clark",
-    "date": "2024-12-10"
-  },
-  {
-    "id": 5,
-    "title": "Yoga for Flexibility and Stress Relief",
-    "excerpt": "Unwind with these yoga poses that improve flexibility, reduce stress, and enhance overall well-being.",
-    "author": "Sarah Lee",
-    "date": "2024-12-11"
-  },
-  {
-    "id": 6,
-    "title": "Building Core Strength for Better Posture",
-    "excerpt": "A strong core can improve your posture and overall health. Here are some core-strengthening exercises to get you started.",
-    "author": "David Brown",
-    "date": "2024-12-12"
-  },
-  {
-    "id": 7,
-    "title": "The Importance of Rest Days in Your Workout Routine",
-    "excerpt": "Rest is just as important as exercise. Learn why rest days are crucial for muscle recovery and fitness progress.",
-    "author": "Anna Wilson",
-    "date": "2024-12-13"
-  },
-  {
-    "id": 8,
-    "title": "Top 10 Supplements for a Healthier Lifestyle",
-    "excerpt": "Explore the top 10 supplements that can support your fitness goals and overall health.",
-    "author": "James Taylor",
-    "date": "2024-12-14"
-  },
-  {
-    "id": 9,
-    "title": "How to Set Realistic Fitness Goals",
-    "excerpt": "Setting achievable goals is key to staying motivated. Learn how to set realistic fitness goals that align with your lifestyle.",
-    "author": "Olivia Martinez",
-    "date": "2024-12-15"
-  },
-  {
-    "id": 10,
-    "title": "The Best At-Home Workouts for Busy Schedules",
-    "excerpt": "No time for the gym? Here are some of the best at-home workouts that can fit into even the busiest schedules.",
-    "author": "Robert Davis",
-    "date": "2024-12-16"
-  }
+    {
+        "id": 1,
+        "title": "Post #1: The Science of Strength Training",
+        "excerpt": "Exploring the physiological benefits of strength training for all fitness levels.",
+        "author": "Author 1",
+        "date": "2024-12-01"
+    },
+    {
+        "id": 2,
+        "title": "Post #2: Yoga for Busy Professionals",
+        "excerpt": "Simple yoga routines designed for people with hectic schedules.",
+        "author": "Author 2",
+        "date": "2024-12-02"
+    },
+    {
+        "id": 3,
+        "title": "Post #3: Mastering Your Running Form",
+        "excerpt": "Tips to enhance efficiency and prevent injuries while running.",
+        "author": "Author 3",
+        "date": "2024-12-03"
+    },
+    {
+        "id": 4,
+        "title": "Post #4: HIIT Workouts: A Beginner\u2019s Guide",
+        "excerpt": "How to get started with high-intensity interval training.",
+        "author": "Author 4",
+        "date": "2024-12-04"
+    },
+    {
+        "id": 5,
+        "title": "Post #5: Eating for Endurance",
+        "excerpt": "Nutritional strategies to sustain energy during long workouts.",
+        "author": "Author 5",
+        "date": "2024-12-05"
+    },
+    {
+        "id": 6,
+        "title": "Post #6: The Role of Sleep in Muscle Recovery",
+        "excerpt": "Why rest is just as important as exercise.",
+        "author": "Author 6",
+        "date": "2024-12-06"
+    },
+    {
+        "id": 7,
+        "title": "Post #7: Functional Fitness for Everyday Strength",
+        "excerpt": "Exercises to improve daily mobility and strength.",
+        "author": "Author 7",
+        "date": "2024-12-07"
+    },
+    {
+        "id": 8,
+        "title": "Post #8: Fitness Gadgets: Are They Worth It?",
+        "excerpt": "A deep dive into popular fitness technology.",
+        "author": "Author 8",
+        "date": "2024-12-08"
+    },
+    {
+        "id": 9,
+        "title": "Post #9: Meditation for Enhanced Athletic Performance",
+        "excerpt": "How mindfulness can improve your workout focus.",
+        "author": "Author 9",
+        "date": "2024-12-09"
+    },
+    {
+        "id": 10,
+        "title": "Post #10: Building a Home Gym on a Budget",
+        "excerpt": "Essential equipment for an affordable home gym.",
+        "author": "Author 10",
+        "date": "2024-12-10"
+    },
+    {
+        "id": 11,
+        "title": "Post #11: Top 5 Mobility Drills for Beginners",
+        "excerpt": "Simple drills to improve flexibility and reduce stiffness.",
+        "author": "Author 1",
+        "date": "2024-12-11"
+    },
+    {
+        "id": 12,
+        "title": "Post #12: Weightlifting Myths Debunked",
+        "excerpt": "Separating fact from fiction in the world of weight training.",
+        "author": "Author 2",
+        "date": "2024-12-12"
+    },
+    {
+        "id": 13,
+        "title": "Post #13: Running Marathons: What to Expect",
+        "excerpt": "A guide for first-time marathon runners.",
+        "author": "Author 3",
+        "date": "2024-12-13"
+    },
+    {
+        "id": 14,
+        "title": "Post #14: Protein Powders: Do You Need Them?",
+        "excerpt": "Understanding the role of protein supplements in fitness.",
+        "author": "Author 4",
+        "date": "2024-12-14"
+    },
+    {
+        "id": 15,
+        "title": "Post #15: Overcoming Gym Anxiety",
+        "excerpt": "Practical advice for feeling confident in the gym environment.",
+        "author": "Author 5",
+        "date": "2024-12-15"
+    },
+    {
+        "id": 16,
+        "title": "Post #16: Outdoor Workouts: Nature as Your Gym",
+        "excerpt": "Creative ways to exercise outside.",
+        "author": "Author 6",
+        "date": "2024-12-16"
+    },
+    {
+        "id": 17,
+        "title": "Post #17: The Truth About Detox Diets",
+        "excerpt": "Do detoxes really work, or are they just a fad?",
+        "author": "Author 7",
+        "date": "2024-12-17"
+    },
+    {
+        "id": 18,
+        "title": "Post #18: Stretching: Before or After Exercise?",
+        "excerpt": "Examining the best time to stretch and why it matters.",
+        "author": "Author 8",
+        "date": "2024-12-18"
+    },
+    {
+        "id": 19,
+        "title": "Post #19: Cycling for Cardio Fitness",
+        "excerpt": "Why cycling is one of the best cardiovascular exercises.",
+        "author": "Author 9",
+        "date": "2024-12-19"
+    },
+    {
+        "id": 20,
+        "title": "Post #20: Fitness Challenges: Staying Motivated",
+        "excerpt": "How 30-day challenges can transform your routine.",
+        "author": "Author 10",
+        "date": "2024-12-20"
+    },
+    {
+        "id": 21,
+        "title": "Post #21: Hydration Tips for Athletes",
+        "excerpt": "How much water do you really need during exercise?",
+        "author": "Author 1",
+        "date": "2024-12-21"
+    },
+    {
+        "id": 22,
+        "title": "Post #22: Building Muscle on a Vegan Diet",
+        "excerpt": "Tips for plant-based athletes to maximize strength.",
+        "author": "Author 2",
+        "date": "2024-12-22"
+    },
+    {
+        "id": 23,
+        "title": "Post #23: Training for a Triathlon",
+        "excerpt": "A complete guide for beginners tackling their first triathlon.",
+        "author": "Author 3",
+        "date": "2024-12-23"
+    },
+    {
+        "id": 24,
+        "title": "Post #24: Tracking Progress with Fitness Apps",
+        "excerpt": "Best practices for using apps to monitor your goals.",
+        "author": "Author 4",
+        "date": "2024-12-24"
+    },
+    {
+        "id": 25,
+        "title": "Post #25: Understanding DOMS (Delayed Onset Muscle Soreness)",
+        "excerpt": "What it is and how to manage it effectively.",
+        "author": "Author 5",
+        "date": "2024-12-25"
+    },
+    {
+        "id": 26,
+        "title": "Post #26: CrossFit: Is It for You?",
+        "excerpt": "An unbiased look at the pros and cons of CrossFit.",
+        "author": "Author 6",
+        "date": "2024-12-26"
+    },
+    {
+        "id": 27,
+        "title": "Post #27: Foam Rolling 101",
+        "excerpt": "The benefits of foam rolling and how to do it correctly.",
+        "author": "Author 7",
+        "date": "2024-12-27"
+    },
+    {
+        "id": 28,
+        "title": "Post #28: The Mental Benefits of Regular Exercise",
+        "excerpt": "How fitness improves mental health and resilience.",
+        "author": "Author 8",
+        "date": "2024-12-28"
+    },
+    {
+        "id": 29,
+        "title": "Post #29: Low-Impact Workouts for Joint Health",
+        "excerpt": "Exercises that are gentle on your joints but still effective.",
+        "author": "Author 9",
+        "date": "2024-12-29"
+    },
+    {
+        "id": 30,
+        "title": "Post #30: The Role of Core Strength in Fitness",
+        "excerpt": "Why a strong core is essential for overall fitness.",
+        "author": "Author 10",
+        "date": "2024-12-30"
+    },
+    {
+        "id": 31,
+        "title": "Post #31: Fitness Goals: Setting Realistic Expectations",
+        "excerpt": "How to set and achieve meaningful fitness milestones.",
+        "author": "Author 1",
+        "date": "2024-12-31"
+    },
+    {
+        "id": 32,
+        "title": "Post #32: Supplements 101: What You Need to Know",
+        "excerpt": "A beginner\u2019s guide to fitness supplements.",
+        "author": "Author 2",
+        "date": "2025-01-01"
+    },
+    {
+        "id": 33,
+        "title": "Post #33: Bodyweight Exercises for Strength",
+        "excerpt": "How to get strong without any equipment.",
+        "author": "Author 3",
+        "date": "2025-01-02"
+    },
+    {
+        "id": 34,
+        "title": "Post #34: HIIT vs. Steady-State Cardio",
+        "excerpt": "Which is better for your fitness goals?",
+        "author": "Author 4",
+        "date": "2025-01-03"
+    },
+    {
+        "id": 35,
+        "title": "Post #35: Combatting Fitness Plateaus",
+        "excerpt": "Tips to break through and keep progressing.",
+        "author": "Author 5",
+        "date": "2025-01-04"
+    },
+    {
+        "id": 36,
+        "title": "Post #36: The Importance of Rest Days",
+        "excerpt": "Why skipping rest days can harm your progress.",
+        "author": "Author 6",
+        "date": "2025-01-05"
+    },
+    {
+        "id": 37,
+        "title": "Post #37: How to Stay Fit While Traveling",
+        "excerpt": "Portable workouts and tips to stay active on the go.",
+        "author": "Author 7",
+        "date": "2025-01-06"
+    },
+    {
+        "id": 38,
+        "title": "Post #38: Strength Training for Women",
+        "excerpt": "Breaking stereotypes and building confidence in the weight room.",
+        "author": "Author 8",
+        "date": "2025-01-07"
+    },
+    {
+        "id": 39,
+        "title": "Post #39: Training with Resistance Bands",
+        "excerpt": "Why resistance bands are a versatile and effective tool.",
+        "author": "Author 9",
+        "date": "2025-01-08"
+    },
+    {
+        "id": 40,
+        "title": "Post #40: The Basics of Calisthenics",
+        "excerpt": "Bodyweight exercises that build incredible strength.",
+        "author": "Author 10",
+        "date": "2025-01-09"
+    },
+    {
+        "id": 41,
+        "title": "Post #41: Sports-Specific Training Tips",
+        "excerpt": "How to tailor your workouts to excel in your sport.",
+        "author": "Author 1",
+        "date": "2025-01-10"
+    },
+    {
+        "id": 42,
+        "title": "Post #42: A Beginner\u2019s Guide to Meal Prepping",
+        "excerpt": "How to save time and eat healthy with meal prep.",
+        "author": "Author 2",
+        "date": "2025-01-11"
+    },
+    {
+        "id": 43,
+        "title": "Post #43: Benefits of Swimming for Fitness",
+        "excerpt": "Why swimming is a full-body workout with minimal impact.",
+        "author": "Author 3",
+        "date": "2025-01-12"
+    },
+    {
+        "id": 44,
+        "title": "Post #44: Pre-Workout Nutrition: What to Eat",
+        "excerpt": "Fueling your body properly before exercise.",
+        "author": "Author 4",
+        "date": "2025-01-13"
+    },
+    {
+        "id": 45,
+        "title": "Post #45: Post-Workout Recovery: Nutrition and Beyond",
+        "excerpt": "Maximizing recovery through smart nutrition and habits.",
+        "author": "Author 5",
+        "date": "2025-01-14"
+    },
+    {
+        "id": 46,
+        "title": "Post #46: The Role of Balance Training in Fitness",
+        "excerpt": "How balance training improves stability and prevents falls.",
+        "author": "Author 6",
+        "date": "2025-01-15"
+    },
+    {
+        "id": 47,
+        "title": "Post #47: Finding the Right Gym for You",
+        "excerpt": "What to look for when choosing a gym membership.",
+        "author": "Author 7",
+        "date": "2025-01-16"
+    }
 ]
