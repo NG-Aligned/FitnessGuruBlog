@@ -5,7 +5,7 @@
     "excerpt": "This is a beginner's gym workout plan to get started.",
     "author": "Author Name",
     "date": "2024-01-01",
-    "image": "https://github.com/NG-Aligned/FitnessGuruBlog/blob/bcd1ee982b5f06f3b2e101ccd8604e7d34e4bd00/beginner-gym-workout-plan_header.jpg",
+    "image": "https://raw.githubusercontent.com/NG-Aligned/FitnessGuruBlog/main/beginner-gym-workout-plan_header.jpg",
     "content": "Full content of the blog post..."
   },
   {
@@ -14,7 +14,7 @@
     "excerpt": "How to exercise when dealing with various health conditions.",
     "author": "Author Name",
     "date": "2024-01-02",
-    "image": "https://github.com/NG-Aligned/FitnessGuruBlog/blob/main/exercising_healthconditions_v2.jpg",
+    "image": "https://raw.githubusercontent.com/NG-Aligned/FitnessGuruBlog/main/exercising_healthconditions_v2.jpg",
     "content": "Full content of the blog post..."
   },
   {
@@ -23,7 +23,7 @@
     "excerpt": "Get into the holiday spirit with these festive workout routines.",
     "author": "Author Name",
     "date": "2024-01-03",
-    "image": "https://github.com/NG-Aligned/FitnessGuruBlog/blob/main/festive-favourites-header.jpg",
+    "image": "https://raw.githubusercontent.com/NG-Aligned/FitnessGuruBlog/main/festive-favourites-header.jpg",
     "content": "Full content of the blog post..."
   },
   {
@@ -32,7 +32,7 @@
     "excerpt": "Understanding the difference between flexibility and mobility.",
     "author": "Author Name",
     "date": "2024-01-04",
-    "image": "https://github.com/NG-Aligned/FitnessGuruBlog/blob/main/flexibility-vs-mobility_blogheader-notitle.jpg",
+    "image": "https://raw.githubusercontent.com/NG-Aligned/FitnessGuruBlog/main/flexibility-vs-mobility_blogheader-notitle.jpg",
     "content": "Full content of the blog post..."
   }
 ]
