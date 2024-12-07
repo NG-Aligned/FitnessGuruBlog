@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "First Blog Post",
+    "excerpt": "This is the excerpt of the first post.",
+    "author": "Author Name",
+    "date": "2024-12-07"
+  },
+  {
+    "id": 2,
+    "title": "Second Blog Post",
+    "excerpt": "This is the excerpt of the second post.",
+    "author": "Author Name",
+    "date": "2024-12-08"
+  }
+]
